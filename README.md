@@ -192,11 +192,7 @@ An alternative approach is to define a fixed maximum infection rate **$r^*$** gr
 
 | SI | SIS |
 |----|-----|
-|  ![SI](<div align="center">
-  <img src="./images/images/MERGED 1.png" alt="SI" width="600"/>
-</div>) | ![SIS](<div align="center">
-  <img src="./images/images/Merge2.png" alt="SIS" width="600"/>
-</div>)) |
+|  <img src="./images/images/MERGE 1.png" alt="SI" width="600"/> | <img src="./images/images/Merge2.png" alt="SIS" width="600"/> |
 
 
 | SIR | SIRS |
