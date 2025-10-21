@@ -95,7 +95,7 @@ $$ \frac{dS}{dt} = -\frac{β S I}{N} $$
 $$ \frac{dI}{dt} = \frac{β S I}{N} -γI $$
 $$ \frac{dR}{dt} = γI $$
 
-<img width="1171" height="703" alt="image SRKUE3" src="https://github.com/user-attachments/assets/b5633ce1-3dc6-4ba6-b131-374ffeebaaee" />
+<img width="1184" height="739" alt="SIR" src="./images/images/SIR.png" />
 
 $$ Susceptibles\ become\ infected\ and\ then\ recover.\ With\ parameters\ β=0.3\ and\ γ=0.1, we\ can\ see\ that\ not\ the\ entire\ population\ becomes\ infected.\ Some\ remain\ susceptible\ and\ thats\ why\ the\ recovered\ curve\ does\ not\ reach\ 1. $$
 
@@ -109,7 +109,7 @@ $$ \frac{dS}{dt} = -\frac{β S I}{N} + ωR $$
 $$ \frac{dI}{dt} = \frac{β S I}{N} -γI $$
 $$ \frac{dR}{dt} = γI -ωR $$
 
-<img width="1180" height="732" alt="image 82ZOE3" src="https://github.com/user-attachments/assets/230d67ef-2479-4693-8c3e-69b4008e14d1" />
+<img width="1184" height="739" alt="SIRS" src="./images/images/SIRS.png" />
 
 $$ We\ clearly\ see\ that\ the\ system\ reaches\ a\ stable\ balance\ between\ S-I-R (β=0.3,\ γ=0.1,\ ω=0.05\).\ Note\ that\ if\ we\ had\ different\ rates\ the\ system\ would\ still\ reach\ equilibrium\ but\ the\ peak\ values\ would\ differ. $$
 
@@ -124,7 +124,7 @@ $$ \frac{dΕ}{dt} = \frac{β S I}{N} -σΕ $$
 $$ \frac{dΙ}{dt} = σE - γI $$
 $$ \frac{dR}{dt} = γI $$
 
-<img width="1179" height="732" alt="image HTASE3" src="https://github.com/user-attachments/assets/bb4db37e-0d2b-4a47-a956-3eec4bb612a9" />
+<img width="1184" height="739" alt="SEIR" src="./images/images/SEIR.png" />
 
 $$ Parameters\ given:\ β=0.3,\ σ=0.2,\ γ=0.1.\ The\ system's\ dynamics\ change,\ making\ the\ infectious\ state\ progress\ slower. $$
 
@@ -137,7 +137,7 @@ $$ \frac{dΕ}{dt} = \frac{β S I}{N} -σΕ $$
 $$ \frac{dΙ}{dt} = σE - γI $$
 $$ \frac{dR}{dt} = γI - ωR $$
 
-<img width="1176" height="731" alt="image ZCOUE3" src="https://github.com/user-attachments/assets/312420a5-8627-4eff-b2e1-304fc38189e6" />
+<img width="1184" height="739" alt="SEIRS" src="./images/images/SEIRS.png" />
 
 $$ Parameters\ given:\ β=0.3,\ σ=0.2,\ γ=0.1,\ ω=0.05.\ Similar\ final\ state\ to\ that\ of\ the\ other\ models\ with\ waning\ immunity. $$
 
