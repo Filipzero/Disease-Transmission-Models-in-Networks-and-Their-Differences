@@ -137,7 +137,7 @@ $$ \frac{dΕ}{dt} = \frac{β S I}{N} -σΕ $$
 $$ \frac{dΙ}{dt} = σE - γI $$
 $$ \frac{dR}{dt} = γI - ωR $$
 
-<img width="1184" height="739" alt="SEIRS" src="./images/images/SEIRS.png" />
+<img width="1170" height="739" alt="SEIRS" src="./images/images/SEIRS.png" />
 
 $$ Parameters\ given:\ β=0.3,\ σ=0.2,\ γ=0.1,\ ω=0.05.\ Similar\ final\ state\ to\ that\ of\ the\ other\ models\ with\ waning\ immunity. $$
 
