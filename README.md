@@ -84,7 +84,7 @@ where:
 * γ is the rate at which infected individuals return to the susceptible state (**different from the other γ parameters in the other models**).
 
 <div align="center">
-  <img src="./images/SIS.png" alt="SIS" width="600"/>
+  <img src="./images/images/SIS.png" alt="SIS" width="600"/>
 </div>
 $$ Transition\ from\ susceptible\ to\ infected.\ The\ system\ reaches\ a\ stable\ balance\ between\ S-I\ with\ an\ infection\ rate\ β=0.3\ and\ "recovery"\ rate\ γ=0.1. $$
 
@@ -99,7 +99,7 @@ $$ \frac{dI}{dt} = \frac{β S I}{N} -γI $$
 $$ \frac{dR}{dt} = γI $$
 
 <div align="center">
-  <img src="./images/SIR.png" alt="SIR" width="600"/>
+  <img src="./images/images/SIR.png" alt="SIR" width="600"/>
 </div>
 $$ Susceptibles\ become\ infected\ and\ then\ recover.\ With\ parameters\ β=0.3\ and\ γ=0.1, we\ can\ see\ that\ not\ the\ entire\ population\ becomes\ infected.\ Some\ remain\ susceptible\ and\ thats\ why\ the\ recovered\ curve\ does\ not\ reach\ 1. $$
 
@@ -114,7 +114,7 @@ $$ \frac{dI}{dt} = \frac{β S I}{N} -γI $$
 $$ \frac{dR}{dt} = γI -ωR $$
 
 <div align="center">
-  <img src="./images/SIRS.png" alt="SIRS" width="600"/>
+  <img src="./images/images/SIRS.png" alt="SIRS" width="600"/>
 </div>
 $$ We\ clearly\ see\ that\ the\ system\ reaches\ a\ stable\ balance\ between\ S-I-R (β=0.3,\ γ=0.1,\ ω=0.05\).\ Note\ that\ if\ we\ had\ different\ rates\ the\ system\ would\ still\ reach\ equilibrium\ but\ the\ peak\ values\ would\ differ. $$
 
@@ -130,7 +130,7 @@ $$ \frac{dΙ}{dt} = σE - γI $$
 $$ \frac{dR}{dt} = γI $$
 
 <div align="center">
-  <img src="./images/SEIR.png" alt="SEIR" width="600"/>
+  <img src="./images/images/SEIR.png" alt="SEIR" width="600"/>
 </div>
 $$ Parameters\ given:\ β=0.3,\ σ=0.2,\ γ=0.1.\ The\ system's\ dynamics\ change,\ making\ the\ infectious\ state\ progress\ slower. $$
 
@@ -144,7 +144,7 @@ $$ \frac{dΙ}{dt} = σE - γI $$
 $$ \frac{dR}{dt} = γI - ωR $$
 
 <div align="center">
-  <img src="./images/SEIRS.png" alt="SEIRS" width="600"/>
+  <img src="./images/images/SEIRS.png" alt="SEIRS" width="600"/>
 </div>
 $$ Parameters\ given:\ β=0.3,\ σ=0.2,\ γ=0.1,\ ω=0.05.\ Similar\ final\ state\ to\ that\ of\ the\ other\ models\ with\ waning\ immunity. $$
 
