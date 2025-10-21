@@ -66,7 +66,9 @@ The dynamics of this model can be described by the following mean-field ODEs:
 $$ \frac{dS}{dt} = -\frac{β S I}{N} $$
 $$ \frac{dI}{dt} = \frac{β S I}{N} $$
  
-<img width="1184" height="739" alt="SI" src="./images/images/SI.png" />
+<div align="center">
+  <img src="./images/images/SI.png" alt="SI t" width="600"/>
+</div>
 
 $$ Transition\ from\ susceptible\ to\ infected. Full\ conversion\ occurs,\ as\ predicted\ by\ the\ ODEs,\ for\ N=10,000\ and\ β=0.3. $$
 
