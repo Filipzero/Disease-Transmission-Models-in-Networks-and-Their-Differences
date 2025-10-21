@@ -69,7 +69,7 @@ $$ \frac{dI}{dt} = \frac{β S I}{N} $$
 <div align="center">
   <img src="./images/images/SI.png" alt="SI t" width="600"/>
 </div>
-$$ Transition\ from\ susceptible\ to\ infected. Full\ conversion\ occurs,\ as\ predicted\ by\ the\ ODEs,\ for\ N=10,000\ and\ β=0.3. $$
+$$ Transition from susceptible\ to\ infected. Full\ conversion\ occurs,\ as\ predicted\ by\ the\ ODEs,\ for\ N=10,000\ and\ β=0.3. $$
 
 ### SIS (Susceptible-Infected)
 
